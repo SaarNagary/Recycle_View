@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_zoro.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/zoro.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_sanji.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/sanji.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_nami.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/nami.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/layout_fragment_main.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/xml_backup_rules.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/layout_activity_main.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/layout_cards_layout.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/layout/cards_layout.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_robin.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/robin.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.android_application_onepiece.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_usopp.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/usopp.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/drawable_luffy.png.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/drawable/luffy.png"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/navigation_my_nav.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/navigation/my_nav.xml"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.android_application_onepiece.app-merged_res-41:/layout_fragment_detail.xml.flat",
+        "source": "com.example.android_application_onepiece.app-main-43:/layout/fragment_detail.xml"
+    }
+]
